@@ -1,0 +1,12 @@
+﻿{
+  "type": "service_account",
+  "project_id": "badmintonbooking",
+  "private_key_id": "a5fde22d0839bfb43f9aab1bbd7b1a7319a22ea3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD+kZrQK99p+GDi\nF+mguZJ9yaLULp/xG9HCqoBRgMDQSNYt+IoIvWUErpapDio4iPXEDKnNAaRuBAMp\nxWqwzOSJ/YqqhTDLUeOwjR41x38iIFy11J7pWyFfhfKy73dSpb9SekdnspdhtXit\n6p0Xdp+pCYsiU5dng+JgAuUJzxw2BmR3GI0hQk77lPaInFyrdd88LEAmnIqJW6y9\nerHg2yeBNzj3PbTprYWS4rbP+mPY7g+T4EKot6Ncn4jnKDhWitXmy62Ac9g0SzTU\ncnB9s+VzIBuOfTvxwzOglyKBAdb9BQmSigGtR2q4BQ75v/90RTnn8DseV+/f6tBm\nagRxoK+7AgMBAAECggEAXqVn96m4IMAV1TmqxPT5wAatoVHMaWo8bLHTj3ndNhM+\nfkz/lQxFeJ4oqaX4kJhrN361yuCnb7fSLT+W0TD8b0lyur9WSuGhU8zDxJ7tZ5S8\no2Xvxzb4i3lTqK9bn8C8B0ArOCSwH8XGnnKyAT07Uy+XKSYHDpd8HNI2sZTtGjA8\namyqEgJBhZlf6l84ColZabsu9YWOqGvAluhwMafV0wHvWb2AzPRPqDnWXF9Dgnme\nrjMW/4NuSFkZPIcW1SYGrR/vdyWs+DJWaKTVmIEC8+URQXRky01lNkBozowIrR7y\n1O1aVqa7RYjX2Wkh/9rA8wiij5AnLYhuZUt9qKPrgQKBgQD/Xmk/Ggkff6QuHd4I\no1k7Z6/NSbdqJ8kwIvh1L28aNfisRmev2lbOMVLQP/Eb8I963e47LK/QtjlIeTZd\nHVF56AkqA+dPeBSyeNKJlEDkGPcMGHHpBgkOSsQan3sTu33BK085fAHagCQxCiE+\nlj9/iCdy6Q2KHNZdDVe4THda2wKBgQD/Mq/41bwPBVA6f6Ot+CtkO9I8rypiEVHX\nKYL7Yk7pmu1/xXDQ5rApaZLF8sz/BEihnVIbzDCx72z67DqRUZcJYaPZgHzF8nRY\nAbKJtKiSpZNPe106wlnL3bf54FdCwAJK8nWFTvOiielXc2x0aXocJjv//sv0huHP\nbeV86ilkoQKBgGMl380NKb+eCjuRgxRtf4auAja9SUYg/l7/JOIysXtGuy8AAt/m\n8M8LnXCXcuB7LOnyYr184yIwrdrynOXYLTscmPpEG7niEH8eo/egpPUqsDh1AT0N\nB9URuEPx6ZJGuFOYoiDagcm4+NRFb5TiNvMoBND7pTMbcSsdtBItNiYDAoGAI1Rw\nGkH0zBuPNNoQ3ffaggDqJS6W7oa5TtFXadf9Vsf1E1hROwqE3ubXxAHOMYv1RjKS\neHi3URr1enOT1CR4hXr4BReNrpXXV4u8nOXe5JZ5o2pPyN+5MMkcPEK7sekFKD0S\n2gbJIfp3zHyVSjSEDDua2OD8eXjm8CGlwLpmSqECgYEA/TZ4uqDnn9Jhz+mxNG9m\npEsuirHzm3c9SO+/ukX5zCEnkbOTOK5hyJ8zUAMl/HXSSCxkkwzpxmXFONxZO35v\nVUNZVjOlTHV2ABUMl/W1sM/3Jdeo6PsRLs1lElqdWKfyrOwuXYO6lVNhYYmR2Z+p\n6ROqTv784zT5chhtz2tANq4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-vision-sa@badmintonbooking.iam.gserviceaccount.com",
+  "client_id": "109668283696712572349",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-vision-sa%40badmintonbooking.iam.gserviceaccount.com"
+}

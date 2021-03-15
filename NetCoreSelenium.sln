@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreSelenium", "NetCoreSelenium\NetCoreSelenium.csproj", "{673D9472-9E76-4FB2-A2DF-60919D71380C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{673D9472-9E76-4FB2-A2DF-60919D71380C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673D9472-9E76-4FB2-A2DF-60919D71380C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673D9472-9E76-4FB2-A2DF-60919D71380C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673D9472-9E76-4FB2-A2DF-60919D71380C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1A0F15F-5C8F-4CBF-903E-C375F77B98AB}
+	EndGlobalSection
+EndGlobal
